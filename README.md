@@ -4,6 +4,10 @@ A responsive, multi-page educational website built using HTML and CSS. Thapa Edu
 
 This project was developed as a learning and practice project by following **Thapa Technical's CSS Course Part 2**.
 
+## Live Demo
+
+[Visit Thapa EduHub](https://tz79.github.io/thapa-eduhub/)
+
 ## Features
 
 - **Home Page:** Hero section, introduction, featured courses, why-choose-us section, and contact call-to-action.
@@ -62,7 +66,7 @@ Thapa-EduHub/
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/tz79/thapa-eduhub.git
    ```
 
 2. Open the project folder.
